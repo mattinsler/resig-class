@@ -2,7 +2,7 @@
   "author": "Matt Insler <matt.insler@gmail.com>",
   "name": "resig-class",
   "description": "http://ejohn.org/blog/simple-javascript-inheritance/",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/mattinsler/resig-class.git"
